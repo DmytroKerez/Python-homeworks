@@ -1,9 +1,8 @@
 from random import random
 
-
 import random
 
-a = random.randint(0, 9,)
+a = random.randint(0, 9)
 
 # prompt
 print(a)
